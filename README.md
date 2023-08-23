@@ -10,9 +10,9 @@ When I'm not coding or buried in textbooks, you can find me in a coffee shop ☕
 Feel free to connect with me, whether it's for a coding collaboration, a good tech discussion, or if you just want to share your favorite programming pun. Let's make the tech world a bit brighter, one line of code and one joke at a time! 🚀
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,js,css&perline=10)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mongo,express,react,nodejs,tailwind,bootstrap,django,flask,&perline=10)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,git,jenkins,docker,&perline=10)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,postman,netlify,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,js,css&perline=10)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=mongo,express,react,nodejs,tailwind,bootstrap,django,flask,&perline=10)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,git,jenkins,docker,&perline=10)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,postman,netlify,&perline=10)](https://skillicons.dev)<br>
 
 ## Resume : Click here🔗
