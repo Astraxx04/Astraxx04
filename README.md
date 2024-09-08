@@ -14,3 +14,14 @@ Feel free to connect with me, whether it's for a coding collaboration, a good te
 [![My Skills](https://skillicons.dev/icons?i=mongo,express,react,nodejs,tailwind,bootstrap,django,flask,&perline=10)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,git,jenkins,docker,&perline=10)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,postman,netlify,&perline=10)](https://skillicons.dev)<br>
+
+## Portfolio
+[My Portfolio][https://www.gagans.me]
+
+## Live projects
+
+[Hackman v7][https://hackman.in]
+[Catalysis v2][https://isecatalysis.in]
+[Pratyaksh][https://main--ninja-hattori.netlify.app]
+[LearnZ][https://astraxx200254.pythonanywhere.com]
+[TrackLeaf][https://track-leaf-1iwu.vercel.app]
