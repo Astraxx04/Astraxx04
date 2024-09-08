@@ -16,12 +16,12 @@ Feel free to connect with me, whether it's for a coding collaboration, a good te
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,postman,netlify,&perline=10)](https://skillicons.dev)<br>
 
 ## Portfolio
-[My Portfolio][https://www.gagans.me]
+[My Portfolio](https://www.gagans.me)<br>
 
 ## Live projects
 
-[Hackman v7][https://hackman.in]
-[Catalysis v2][https://isecatalysis.in]
-[Pratyaksh][https://main--ninja-hattori.netlify.app]
-[LearnZ][https://astraxx200254.pythonanywhere.com]
-[TrackLeaf][https://track-leaf-1iwu.vercel.app]
+[Hackman v7](https://hackman.in)<br>
+[Catalysis v2](https://isecatalysis.in)<br>
+[Pratyaksh](https://main--ninja-hattori.netlify.app)<br>
+[LearnZ](https://astraxx200254.pythonanywhere.com)<br>
+[TrackLeaf](https://track-leaf-1iwu.vercel.app)<br>
