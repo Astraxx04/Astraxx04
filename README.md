@@ -16,7 +16,7 @@ Feel free to connect with me, whether it's for a coding collaboration, a good te
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,postman,netlify,&perline=10)](https://skillicons.dev)<br>
 
 ## Portfolio
-[My Portfolio](https://www.gagans.me)<br>
+[My Portfolio](https://www.sgagan.dev)<br>
 
 ## Live projects
 
