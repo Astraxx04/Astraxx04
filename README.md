@@ -54,10 +54,6 @@ engine that maps an uploaded syllabus to relevant lectures. `python` `django` `d
 **[inpycon2025](https://github.com/Astraxx04/inpycon2025)** — contributed to the PyCon India 2025
 website, an open-source conference with 1500+ attendees.
 
-### Elsewhere
-
-[sgagan.dev](https://sgagan.dev) · [resume](https://sgagan.dev/resume) · [blog](https://blogs.sgagan.dev) · [@Astrax_04](https://x.com/Astrax_04) · [linkedin](https://www.linkedin.com/in/gagan-s-105706202/) · sgagan2542@gmail.com
-
 ### Stats
 
 <picture>
@@ -65,4 +61,6 @@ website, an open-source conference with 1500+ attendees.
   <img alt="GitHub activity — contributions, commits, pull requests, reviews, and most used languages" src="https://raw.githubusercontent.com/Astraxx04/Astraxx04/main/stats_light.svg">
 </picture>
 
+### Elsewhere
 
+[sgagan.dev](https://sgagan.dev) · [resume](https://sgagan.dev/resume) · [blog](https://blogs.sgagan.dev) · [@Astrax_04](https://x.com/Astrax_04) · [linkedin](https://www.linkedin.com/in/gagan-s-105706202/) · sgagan2542@gmail.com
