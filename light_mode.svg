@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="402" viewBox="0 0 660 402" font-family="ui-monospace,SFMono-Regular,&quot;Cascadia Code&quot;,Menlo,Consolas,monospace" font-size="13">
+  <rect x="1" y="1" width="658" height="400" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+  <path d="M1 11a10 10 0 0 1 10-10h638a10 10 0 0 1 10 10v25H1z" fill="#f6f8fa"/>
+  <line x1="1" y1="36" x2="659" y2="36" stroke="#d0d7de"/>
+  <circle cx="22" cy="19" r="5.5" fill="#cf222e"/>
+  <circle cx="41" cy="19" r="5.5" fill="#953800"/>
+  <circle cx="60" cy="19" r="5.5" fill="#1a7f37"/>
+  <text x="330" y="23" fill="#656d76" font-size="12" text-anchor="middle">gagan s — zsh</text>
+  <text x="26" y="66" opacity="0"><tspan fill="#1a7f37">gagan@dev</tspan><tspan fill="#656d76">:</tspan><tspan fill="#0969da">~</tspan><tspan fill="#656d76">$ </tspan><tspan fill="#1f2328">whoami</tspan><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.00s" fill="freeze"/></text>
+  <text x="26" y="85" opacity="0"><tspan fill="#1f2328">Backend engineer — Go, PostgreSQL, AWS. Bengaluru, IN.</tspan><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.09s" fill="freeze"/></text>
+  <text x="26" y="123" opacity="0"><tspan fill="#1a7f37">gagan@dev</tspan><tspan fill="#656d76">:</tspan><tspan fill="#0969da">~</tspan><tspan fill="#656d76">$ </tspan><tspan fill="#1f2328">systemctl status --user</tspan><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.27s" fill="freeze"/></text>
+  <text x="26" y="142" opacity="0"><tspan fill="#1a7f37">● </tspan><tspan fill="#953800">prrev.service</tspan><tspan fill="#656d76">      multi-agent PR reviewer · Go, pgvector, River</tspan><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.36s" fill="freeze"/></text>
+  <text x="26" y="161" opacity="0"><tspan fill="#656d76">    Active: </tspan><tspan fill="#1a7f37">running</tspan><tspan fill="#656d76"> (self-hosted) · </tspan><tspan fill="#0550ae" id="prrev_commits">247</tspan><tspan fill="#656d76"> commits</tspan><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.45s" fill="freeze"/></text>
+  <text x="26" y="180" opacity="0"><tspan fill="#1a7f37">● </tspan><tspan fill="#953800">indee.service</tspan><tspan fill="#656d76">      video platform · 4.5M+ assets</tspan><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.54s" fill="freeze"/></text>
+  <text x="26" y="199" opacity="0"><tspan fill="#656d76">    Active: </tspan><tspan fill="#1a7f37">running</tspan><tspan fill="#656d76"> · uptime </tspan><tspan fill="#0550ae" id="uptime">1y 9m 1d</tspan><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.63s" fill="freeze"/></text>
+  <text x="26" y="237" opacity="0"><tspan fill="#1a7f37">gagan@dev</tspan><tspan fill="#656d76">:</tspan><tspan fill="#0969da">~</tspan><tspan fill="#656d76">$ </tspan><tspan fill="#1f2328">cat stack</tspan><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.81s" fill="freeze"/></text>
+  <text x="26" y="256" opacity="0"><tspan fill="#0969da">go       </tspan><tspan fill="#1f2328"> gin · gorm · golang-migrate · river</tspan><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.90s" fill="freeze"/></text>
+  <text x="26" y="275" opacity="0"><tspan fill="#0969da">data     </tspan><tspan fill="#1f2328"> postgresql · redis · pgvector</tspan><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.99s" fill="freeze"/></text>
+  <text x="26" y="294" opacity="0"><tspan fill="#0969da">infra    </tspan><tspan fill="#1f2328"> aws · docker · kubernetes</tspan><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.08s" fill="freeze"/></text>
+  <text x="26" y="313" opacity="0"><tspan fill="#0969da">observe  </tspan><tspan fill="#1f2328"> opentelemetry · prometheus · grafana · jaeger</tspan><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.17s" fill="freeze"/></text>
+  <text x="26" y="351" opacity="0"><tspan fill="#1a7f37">gagan@dev</tspan><tspan fill="#656d76">:</tspan><tspan fill="#0969da">~</tspan><tspan fill="#656d76">$ </tspan><tspan fill="#1f2328"></tspan><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.35s" fill="freeze"/></text>
+  <rect x="135" y="341" width="8" height="13" fill="#1a7f37" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.01s" begin="1.5s" fill="freeze"/><animate attributeName="opacity" values="1;1;0;0" dur="1.1s" begin="1.6s" repeatCount="indefinite"/></rect>
+</svg>
