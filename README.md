@@ -24,17 +24,17 @@ RAG pipelines, multi-agent orchestration, and how you actually evaluate any of i
 
 | | |
 |---|---|
-| **Languages** | Python · Go · JavaScript |
+| **Languages** | Go · Python · JavaScript |
 | **Backend** | Django · FastAPI · Flask · Gin · NodeJS |
-| **Databases** | PostgreSQL · MongoDB · Redis · pgvector |
-| **Cloud** | AWS (EC2, Lambda, S3, Elemental, DynamoDB) · Docker · Kubernetes |
+| **Databases** | PostgreSQL · MongoDB · Redis |
+| **Cloud** | AWS (EC2, Lambda, S3, Elemental, DynamoDB) · Docker |
 | **DevOps** | CI/CD · OpenTelemetry · Prometheus · Grafana |
 | **AI/ML** | LangChain · HuggingFace · TensorFlow · RAG |
 | **Systems** | REST · gRPC · WebSockets · SSE · Microservices · Celery · RabbitMQ · FFmpeg |
 
 ### Building
 
-**[prrev](https://github.com/Astraxx04/prrev)** — self-hosted multi-agent PR reviewer. RAG over your
+**[prrev](https://github.com/Astraxx04/pr-reviewer)** — self-hosted multi-agent PR reviewer. RAG over your
 codebase with pgvector, River for job orchestration, OTel spans so you can see why it said something
 dumb. Slack bot and VS Code extension. `go` `postgres` `pgvector` `river`
 
