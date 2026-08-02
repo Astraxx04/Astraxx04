@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="660" height="554" viewBox="0 0 660 554" font-family="ui-monospace,SFMono-Regular,&quot;Cascadia Code&quot;,Menlo,Consolas,monospace" font-size="13">
-  <rect x="1" y="1" width="658" height="552" rx="10" fill="#0d1117" stroke="#30363d"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="440" viewBox="0 0 660 440" font-family="ui-monospace,SFMono-Regular,&quot;Cascadia Code&quot;,Menlo,Consolas,monospace" font-size="13">
+  <rect x="1" y="1" width="658" height="438" rx="10" fill="#0d1117" stroke="#30363d"/>
   <path d="M1 11a10 10 0 0 1 10-10h638a10 10 0 0 1 10 10v25H1z" fill="#161b22"/>
   <line x1="1" y1="36" x2="659" y2="36" stroke="#30363d"/>
   <circle cx="22" cy="19" r="5.5" fill="#ff7b72"/>
@@ -11,7 +11,7 @@
   <text x="26" y="123" opacity="0"><tspan fill="#7ee787">gagan@dev</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#c9d1d9">cat now</tspan><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.27s" fill="freeze"/></text>
   <text x="26" y="142" opacity="0"><tspan fill="#ffa657">work:     </tspan><tspan fill="#c9d1d9"> video systems at Indee — transcoding, playback</tspan><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.36s" fill="freeze"/></text>
   <text x="26" y="161" opacity="0"><tspan fill="#ffa657">learning: </tspan><tspan fill="#c9d1d9"> go internals · ai agents · rag pipelines</tspan><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.45s" fill="freeze"/></text>
-  <text x="26" y="180" opacity="0"><tspan fill="#ffa657">uptime:   </tspan><tspan fill="#8b949e"> shipping at Indee for </tspan><tspan fill="#a5d6ff" id="uptime">1y 9m 1d</tspan><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.54s" fill="freeze"/></text>
+  <text x="26" y="180" opacity="0"><tspan fill="#ffa657">uptime:   </tspan><tspan fill="#8b949e"> shipping at Indee for </tspan><tspan fill="#a5d6ff" id="uptime">2y</tspan><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.54s" fill="freeze"/></text>
   <text x="26" y="218" opacity="0"><tspan fill="#7ee787">gagan@dev</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#c9d1d9">cat stack</tspan><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.72s" fill="freeze"/></text>
   <text x="26" y="237" opacity="0"><tspan fill="#79c0ff">lang     </tspan><tspan fill="#c9d1d9"> go · python · javascript</tspan><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.81s" fill="freeze"/></text>
   <text x="26" y="256" opacity="0"><tspan fill="#79c0ff">backend  </tspan><tspan fill="#c9d1d9"> django · fastapi · flask · gin · nodejs</tspan><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.90s" fill="freeze"/></text>

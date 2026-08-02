@@ -57,3 +57,12 @@ website, an open-source conference with 1500+ attendees.
 ### Elsewhere
 
 [sgagan.dev](https://sgagan.dev) · [resume](https://sgagan.dev/resume) · [blog](https://blogs.sgagan.dev) · [@Astrax_04](https://x.com/Astrax_04) · [linkedin](https://www.linkedin.com/in/gagan-s-105706202/) · sgagan2542@gmail.com
+
+### Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astraxx04/Astraxx04/main/stats_dark.svg">
+  <img alt="GitHub activity — contributions, commits, pull requests, reviews, and most used languages" src="https://raw.githubusercontent.com/Astraxx04/Astraxx04/main/stats_light.svg">
+</picture>
+
+

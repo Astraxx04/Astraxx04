@@ -37,7 +37,7 @@ jobs:
           for attempt in 1 2 3; do
             go run .
 
-            git add dark_mode.svg light_mode.svg
+            git add dark_mode.svg light_mode.svg stats_dark.svg stats_light.svg
             if git diff --staged --quiet; then
               echo "no changes"
               exit 0
