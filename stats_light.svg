@@ -3,10 +3,10 @@
   <text x="21" y="32" fill="#1f2328" font-size="14" font-weight="600">GitHub activity</text>
   <text x="639" y="32" fill="#656d76" font-size="11" text-anchor="end">last 12 months</text>
   <rect x="21.0" y="52" width="147.0" height="64" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
-  <text x="35.0" y="83" fill="#1f2328" font-size="22" font-weight="600">269</text>
+  <text x="35.0" y="83" fill="#1f2328" font-size="22" font-weight="600">275</text>
   <text x="35.0" y="101" fill="#656d76" font-size="9" letter-spacing="0.6">CONTRIBUTIONS</text>
   <rect x="178.0" y="52" width="147.0" height="64" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
-  <text x="192.0" y="83" fill="#1f2328" font-size="22" font-weight="600">125</text>
+  <text x="192.0" y="83" fill="#1f2328" font-size="22" font-weight="600">131</text>
   <text x="192.0" y="101" fill="#656d76" font-size="9" letter-spacing="0.6">COMMITS</text>
   <rect x="335.0" y="52" width="147.0" height="64" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
   <text x="349.0" y="83" fill="#1f2328" font-size="22" font-weight="600">39</text>
@@ -403,22 +403,23 @@
   <rect x="617.7" y="290.5" width="9.7" height="9.7" rx="2" fill="#9be9a8"/>
   <rect x="617.7" y="302.2" width="9.7" height="9.7" rx="2" fill="#ebedf0"/>
   <rect x="629.4" y="232.0" width="9.7" height="9.7" rx="2" fill="#40c463"/>
+  <rect x="629.4" y="243.7" width="9.7" height="9.7" rx="2" fill="#ebedf0"/>
   <text x="21" y="342" fill="#656d76" font-size="11">Most used languages</text>
   <clipPath id="barclip"><rect x="21" y="352" width="618" height="12" rx="6"/></clipPath>
   <rect x="21" y="352" width="618" height="12" rx="6" fill="#eaeef2"/>
-  <rect x="21.00" y="352" width="206.13" height="12" fill="#f1e05a" clip-path="url(#barclip)"/>
-  <rect x="227.13" y="352" width="163.36" height="12" fill="#00ADD8" clip-path="url(#barclip)"/>
-  <rect x="390.49" y="352" width="107.44" height="12" fill="#563d7c" clip-path="url(#barclip)"/>
-  <rect x="497.93" y="352" width="86.80" height="12" fill="#3178c6" clip-path="url(#barclip)"/>
-  <rect x="584.73" y="352" width="54.27" height="12" fill="#e34c26" clip-path="url(#barclip)"/>
+  <rect x="21.00" y="352" width="203.69" height="12" fill="#f1e05a" clip-path="url(#barclip)"/>
+  <rect x="224.69" y="352" width="157.74" height="12" fill="#00ADD8" clip-path="url(#barclip)"/>
+  <rect x="382.43" y="352" width="114.36" height="12" fill="#563d7c" clip-path="url(#barclip)"/>
+  <rect x="496.79" y="352" width="89.82" height="12" fill="#3178c6" clip-path="url(#barclip)"/>
+  <rect x="586.61" y="352" width="52.39" height="12" fill="#e34c26" clip-path="url(#barclip)"/>
   <circle cx="25.0" cy="379.9" r="4" fill="#f1e05a"/>
-  <text x="35.0" y="383.9" fill="#656d76" font-size="11">JavaScript 28.0%</text>
+  <text x="35.0" y="383.9" fill="#656d76" font-size="11">JavaScript 27.8%</text>
   <circle cx="162.6" cy="379.9" r="4" fill="#00ADD8"/>
-  <text x="172.6" y="383.9" fill="#656d76" font-size="11">Go 22.2%</text>
+  <text x="172.6" y="383.9" fill="#656d76" font-size="11">Go 21.5%</text>
   <circle cx="247.4" cy="379.9" r="4" fill="#563d7c"/>
-  <text x="257.4" y="383.9" fill="#656d76" font-size="11">CSS 14.6%</text>
+  <text x="257.4" y="383.9" fill="#656d76" font-size="11">CSS 15.6%</text>
   <circle cx="338.8" cy="379.9" r="4" fill="#3178c6"/>
-  <text x="348.8" y="383.9" fill="#656d76" font-size="11">TypeScript 11.8%</text>
+  <text x="348.8" y="383.9" fill="#656d76" font-size="11">TypeScript 12.3%</text>
   <circle cx="476.4" cy="379.9" r="4" fill="#e34c26"/>
-  <text x="486.4" y="383.9" fill="#656d76" font-size="11">HTML 7.4%</text>
+  <text x="486.4" y="383.9" fill="#656d76" font-size="11">HTML 7.1%</text>
 </svg>
