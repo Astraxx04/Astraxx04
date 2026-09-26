@@ -18,7 +18,7 @@
   <text x="35.0" y="157" fill="#1f2328" font-size="22" font-weight="600">45</text>
   <text x="35.0" y="175" fill="#656d76" font-size="9" letter-spacing="0.6">PUBLIC REPOS</text>
   <rect x="178.0" y="126" width="147.0" height="64" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
-  <text x="192.0" y="157" fill="#1f2328" font-size="22" font-weight="600">12</text>
+  <text x="192.0" y="157" fill="#1f2328" font-size="22" font-weight="600">13</text>
   <text x="192.0" y="175" fill="#656d76" font-size="9" letter-spacing="0.6">STARS EARNED</text>
   <rect x="335.0" y="126" width="147.0" height="64" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
   <text x="349.0" y="157" fill="#1f2328" font-size="22" font-weight="600">25</text>
@@ -408,6 +408,7 @@
   <rect x="629.4" y="267.1" width="9.7" height="9.7" rx="2" fill="#ebedf0"/>
   <rect x="629.4" y="278.8" width="9.7" height="9.7" rx="2" fill="#ebedf0"/>
   <rect x="629.4" y="290.5" width="9.7" height="9.7" rx="2" fill="#ebedf0"/>
+  <rect x="629.4" y="302.2" width="9.7" height="9.7" rx="2" fill="#ebedf0"/>
   <text x="21" y="342" fill="#656d76" font-size="11">Most used languages</text>
   <clipPath id="barclip"><rect x="21" y="352" width="618" height="12" rx="6"/></clipPath>
   <rect x="21" y="352" width="618" height="12" rx="6" fill="#eaeef2"/>
